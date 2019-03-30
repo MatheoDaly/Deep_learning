@@ -10,3 +10,5 @@ Change settings in the training part to obtain a better score than me !
 ## For Japanese YEN
 This is my first attempt for an Recurrent Neural Network. 
 
+## For ClassificationME
+This is an example of CNN, I had the habit to use Keras for Deep learning, but this time I had to work with Pytorch. 
