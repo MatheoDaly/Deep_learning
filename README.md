@@ -1,5 +1,6 @@
-# KAGGLE TITANIC
+# Deep learning tests
 
+## For Titanic
 This is my Deep learning code about the titanic challenge on kaggle. 
 I obtained an accuracy of 0.79. 
 
